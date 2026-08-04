@@ -4,7 +4,9 @@
 
 **References**
 
-- https://www.youtube.com/watch?v=njTh_OwMljA&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=3&t=1s
+<video controls width="640" height="360">
+    <source src="https://www.youtube.com/watch?v=njTh_OwMljA&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=3&t=1s" type="video/mp4">
+</video>
 
 **Implementation**
 
