@@ -1,0 +1,8 @@
+Ubuntu
+-----
+Restart SHELL   - exec "$SHELL"
+
+PYENV
+-----
+Install new python version  - pyenv install ${VERSION:3.12}
+Activate version            - pyenv global ${VERSION:3.12}
