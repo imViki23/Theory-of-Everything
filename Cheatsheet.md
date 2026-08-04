@@ -25,6 +25,6 @@
 
 ## Node
 
-| Function                      | Commands                                          |
-|-------------------------------|---------------------------------------------------|
-| Run typescript file from Node | `node --experimental-strip-types ${FILE_PATH}`    |
+| Function                       | Commands                                          |
+|--------------------------------|---------------------------------------------------|
+| Run typescript file using Node | `node --experimental-strip-types ${FILE_PATH}`    |
